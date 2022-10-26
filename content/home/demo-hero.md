@@ -2,7 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Theme
+active: false
+title: Zoë J. Kitchel
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'

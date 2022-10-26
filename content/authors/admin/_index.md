@@ -1,43 +1,38 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Zoë J. Kitchel
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Zoe
+last_name: Kitchel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Currently @ Pinsky Lab @ Rutgers University
+    url: https://pinsky.marine.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Ecology
+  - Climate Biogeography
+  - Socio-Ecological Systems
+  - Quantitative Tools
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: BSc in Ecology and Evolution
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +44,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zoejean88?lang=en
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=UR1-BjQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/zoekitchel/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zoë is in the final year of her PhD in the Ecology and Evolution Department at Rutgers University. Time on the coasts of Maine and Alaska have inspired her interests in the future of natural resource extraction in the context of 21st century environmental change. She is currently exploring range boundary dynamics and changes in community structure through time using global bottom trawl datasets and how fishing communities in the Northeast US are responding to changing abundance and distribution of target species. In addition, she is a part of Rutgers’ Coastal Climate Risk and Resiliency Traineeship, aiming to bridge the gap between biologists, engineers, social scientists, and policy makers all interested in resiliency within coastal communities. She hopes for her research to push the boundaries of science, but to also be accessible to communities experiencing change first hand.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zoë's passion for marine ecology is paralleled by a commitment to research backed pedagogy and inclusive curriculum design. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
