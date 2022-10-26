@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: BSc in Ecology and Evolution
-      institution: Massachusetts Institute of Technology
+      institution: Yale University
       year: 2015
 
 # Social/Academic Networking
