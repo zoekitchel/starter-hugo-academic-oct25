@@ -22,10 +22,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Marine Ecology
-  - Climate Biogeography
-  - Socio-Ecological Systems
-  - Quantitative Tools
+#  - Marine Ecology
+#  - Climate Biogeography
+#  - Socio-Ecological Systems
+#  - Quantitative Tools
 
 # Education to show in About widget
 education:
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+#  - icon: envelope
+ #   icon_pack: fas
+  #  link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/zoejean88?lang=en
@@ -69,7 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-Zoë is in the final year of her PhD in the Ecology and Evolution Department at Rutgers University. Time on the coasts of Maine and Alaska have inspired her interests in the future of natural resource extraction in the context of 21st century environmental change. She is currently exploring range boundary dynamics and changes in community structure through time using global bottom trawl datasets and how fishing communities in the Northeast US are responding to changing abundance and distribution of target species. In addition, she is a part of Rutgers’ Coastal Climate Risk and Resiliency Traineeship, aiming to bridge the gap between biologists, engineers, social scientists, and policy makers all interested in resiliency within coastal communities. She hopes for her research to push the boundaries of science, but to also be accessible to communities experiencing change first hand.
-
-Zoë's passion for marine ecology is paralleled by a commitment to research backed pedagogy and inclusive curriculum design. 
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems.
 
