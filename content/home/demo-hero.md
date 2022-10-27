@@ -16,8 +16,8 @@ cta_note:
     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    gradient_end: '#03545C'
+    gradient_start: '#06a6b5'
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
