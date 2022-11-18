@@ -1,57 +1,30 @@
 ---
-widget: contact
-headless: true  # This file represents a page section.
-
-# Put Your Section Options Here (title, background, etc.) ...
-title: Contact Me
-subtitle: ''
-weight: 10
+title: "Contact"
 
 ---
+<div class ="row">
+  <div class ="column">
+    <figure>
+     <img src="zoe_lobster.JPG" 
+          alt="bmm-efishing" 
+          width="800"/>
+      <figcaption>
+      Trap sampling, Barnegat Bay, NJ, 2017.
+     </figcaption>
+    </figure>
+  </div>
+  <div class ="column">
+    <p>zoe.kitchel[at]rutgers[dot]edu </p>
+    <p>14 College Farm Road</p>
+    <p>New Brunswick, NJ 08901</p>
+  </div>
+</div>
+       
+<img src="dive_flag.png"
+    style="float: left; width: 30%; margin-left: 4%; margin-right: 1%; margin-bottom: 0em;">
+<img src="bsb_hake.png"
+    style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0em;">
+<img src="calamari.png"
+    style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0em;">
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form: 
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-  # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
-  
----
+<br>
