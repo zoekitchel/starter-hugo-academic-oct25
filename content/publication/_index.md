@@ -17,5 +17,4 @@ header:
 
 [Kitchel, Z. J., Bandara, R. M. W. J., Bos, J. T., Clark, R. D., Forrest, D. L., & Pinsky, M. L. (2021). Ocean Recovery: A Sustainable Future for Global Fisheries? Ray Hilborn and Ulrike Hilborn, Oxford University Press, Oxford, UK. 2019.](https://global.oup.com/academic/product/ocean-recovery-9780198839767)
 
-_PDFs available by request_
 ---
