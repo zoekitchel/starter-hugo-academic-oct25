@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Marine Ecology | Community Resilience
+title: Marine Ecology & Community Resilience
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
@@ -23,9 +23,9 @@ author: admin
 design:
   background:
     # Name of image in `assets/media/`.
-    image: sitka_boat.jpg
+    image: sitka_boat_bw.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.5
+    image_darken: 0.3
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
