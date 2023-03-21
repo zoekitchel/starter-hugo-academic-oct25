@@ -7,7 +7,7 @@ header:
   image: squid.JPG
 
 ---
-[Kitchel, Z. J. & Pinsky, M. L. (2023). Regional species losses lag behind species gains and thermal conditions across the North American continental shelf. Global Ecology and Biogeography, in press.]
+Kitchel, Z. J. & Pinsky, M. L. (2023). Regional species losses lag behind species gains and thermal conditions across the North American continental shelf. Global Ecology and Biogeography, in press.
 
 [Kitchel, Z. J., Conrad, H. M., Selden, R. L., & Pinsky, M. L. (2022). The role of continental shelf bathymetry in shaping marine range shifts in the face of climate change. Global Change Biology, 28(17), 5185-5199.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16276)
 
