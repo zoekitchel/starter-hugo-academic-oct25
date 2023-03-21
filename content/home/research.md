@@ -1,29 +1,17 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-#widget = "custom"
-active = true
-date = 2018-06-20T00:00:00
+---
+title: Research
+#summary: Here we describe how to add a page to your site.
+date: "2018-06-28T00:00:00Z"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Research Interests"
-subtitle = ""
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-# Order that this section will appear in.
-weight = 30
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-+++
-
-
-## Climate-Related Range Shifts 
-
-## Biogeographical Forecasts 
-
-
-## Extreme Events 
-
-
-## Managing Cumulative Impacts on Ocean Ecosystems
-
-
+Add your *content* here...
