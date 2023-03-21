@@ -1,49 +1,29 @@
----
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
-active: true
++++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2018-06-20T00:00:00
 
-# This file represents a page section.
-headless: true
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Research Interests"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 65
+# Order that this section will appear in.
+weight = 30
 
-title: Research
-subtitle: ''
++++
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+## Climate-Related Range Shifts 
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+## Biogeographical Forecasts 
 
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: showcase
+## Extreme Events 
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
----
+
+## Managing Cumulative Impacts on Ocean Ecosystems
+
+
