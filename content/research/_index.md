@@ -24,9 +24,9 @@ I am a quantitative marine ecologist interested in the intersections among marin
 
 {{< figure src="Pinsky2020_figure.png" alt="Three maps showing range shifts of American lobster, Humboldt squid, and Cushion star">}}
 
-Organisms across the tree of life--from humpback whales to viruses, song birds to mycorrhizal fungi--are moving where they live. The ocean presents an especially exciting place to learn about how and why species move to new locations because it's typically easier to move around in the ocean versus on land, and because ocean habitats facilitate narrow thermal tolerances. However, we are still just beginning to learn about how the identity of a species, species population dynamics, and species interactions shape the likelihood and extent of a shift in where a phytoplankton, fish, or whale is found, and where it will be found 5, 50, 100 years in the future.
+Organisms across the tree of life--from humpback whales to viruses, song birds to mycorrhizal fungi--are moving where they live. The ocean presents an especially exciting place to learn about how and why species move to new locations because it's typically easier to move around in the ocean versus on land, and because ocean habitats facilitate narrow thermal tolerances. However, we are still just beginning to learn about how the identity of a species, population dynamics, location, and interactions shape the likelihood and extent of a shift in where a phytoplankton, fish, or whale is found, and where it will be found 5, 50, 100 years in the future.
 
-
+I am working to better understand how species traits such as generation time, mobility, and reproductive strategy may play a role in shaping species range shifts. Additionally, I am interested in how these traits vary across a species range, and how this variability may play into range expansions and contractions in response to environmental change and fishing pressure.
 
 **Coastal communities and environmental change**
 
