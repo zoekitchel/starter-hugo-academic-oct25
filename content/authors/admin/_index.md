@@ -71,5 +71,5 @@ highlight_name: true
 
 I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems.
 
-Fall of 2023, I will be joining the <a href="/https://www.oxy.edu/academics/vantuna-research-group">Vantuna Research Group</a> at Occidental College as a postdoctoral research associate.
+Fall of 2023, I will be joining the <a href="https://www.oxy.edu/academics/vantuna-research-group">Vantuna Research Group</a> at Occidental College as a postdoctoral research associate.
 
