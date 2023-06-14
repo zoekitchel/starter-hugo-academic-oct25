@@ -13,9 +13,11 @@ title: "Contact"
   </figcaption>
 </figure>
 
-<p>zoe.kitchel[at]rutgers[dot]edu</p>
-<p>14 College Farm Road</p>
-<p>New Brunswick, NJ 08901</p>
+<p>zoe.j.kitchel[at]gmail[dot]com</p>
+
+Find me at the Vantuna Research Group @ Occidental College in the fall!
+<p>1600 Campus Road</p>
+<p>Los Angeles, CA 90041</p>
        
 <img src="dive_flag.png"
     style="float: left; width: 30%; margin-left: 4%; margin-right: 1%; margin-bottom: 0em;">
