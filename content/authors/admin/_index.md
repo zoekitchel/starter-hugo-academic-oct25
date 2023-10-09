@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoë J. Kitchel
+title: Zoë J. Kitchel, PhD
 
 # Full name (for SEO)
 first_name: Zoe
@@ -10,12 +10,12 @@ last_name: Kitchel
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Currently @ Pinsky Lab @ Rutgers University
-    url: https://pinsky.marine.rutgers.edu/
+#organizations:
+ # - name: Currently @ Pinsky Lab @ Rutgers University
+  #    url: https://pinsky.marine.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,6 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Ecology and Evolution
+      institution: Rutgers University
+      year: 2023
     - course: BSc in Ecology and Evolution
       institution: Yale University
       year: 2015
@@ -69,7 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems.
-
-Fall of 2023, I will be joining the <a href="https://www.oxy.edu/academics/vantuna-research-group">Vantuna Research Group</a> at Occidental College as a postdoctoral research associate.
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems. I am currently a Postdoctoral Researcher studying the biodiversity impacts of artificial structures in the ocean with the <a href="https://www.oxy.edu/academics/vantuna-research-group">Vantuna Research Group</a> at Occidental College in Los Angeles, California.
 

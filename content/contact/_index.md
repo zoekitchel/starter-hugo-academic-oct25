@@ -15,7 +15,7 @@ title: "Contact"
 
 <p>zoe.j.kitchel[at]gmail[dot]com</p>
 
-Find me at the Vantuna Research Group @ Occidental College in the fall!
+Vantuna Research Group @ Occidental College
 <p>1600 Campus Road</p>
 <p>Los Angeles, CA 90041</p>
        
