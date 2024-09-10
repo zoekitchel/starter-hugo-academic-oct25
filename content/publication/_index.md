@@ -7,7 +7,15 @@ header:
   image: squid.JPG
 
 ---
-Fredston, A.L., Cheung, W.W., Frölicher, T.L., **Kitchel, Z.J.**, Maureaud, A.A., Thorson, J.T., Auber, A., Mérigot, B., Palacios-Abrantes, J., Palomares, M.L.D., Pecuchet, L., Shackell, N.L., & Pinsky, M.L. (2023). Marine heatwaves are not a dominant driver of change in demersal fishes. Nature, 1-6. [Link](https://www.nature.com/articles/s41586-023-06449-y)
+Maureaud, A. A., **Kitchel, Z. J.**, Fredston, A., Guralnick, R., Palacios Abrantes, J., Deng Palomares, M. L., Pinsky, M. L., Shackell N., Thorson, J. T., and Merigot B. FISHGLOB: a collaborative infrastructure for marine science and management. In review at Conservation Biology.
+
+**Kitchel, Z. J.**, et al. Marine fish communities cycle between homogenized and differentiated states through time. In second revision at Ecology Letters.	
+
+Selden, R. L., **Kitchel, Z. J.**, Coleman, K. E., Calzada, L., Nogues, B., and St. Martin, K. Using historical catch flexibility and fishing ground mobility as measures of the adaptive capacity of fishing communities to future ocean change. In press at ICES Journal of Marine Science.
+
+Maureaud, A. A., Palacios-Abrantes, J., **Kitchel, Z.**, Mannocci, L., Pinsky, M., Fredston, A., Beukhof, E., Forrest, D., Frelat, R., Palomares, M. L. D., Pecuchet, L., Thorson, J., van Denderen, P. D., and Merigot, B. (2024) FishGlob_data: an integrated database of fish biodiversity sampled with scientific bottom-trawl surveys. Scientific Data, 11, 24.
+
+Fredston, A.L., Cheung, W.W., Frölicher, T.L., **Kitchel, Z.J.**, Maureaud, A.A., Thorson, J.T., Auber, A., Mérigot, B., Palacios-Abrantes, J., Palomares, M.L.D., Pecuchet, L., Shackell, N.L., & Pinsky, M.L. (2023). Marine heatwaves are not a dominant driver of change in demersal fishes. Nature, 621, 324–329. [Link](https://www.nature.com/articles/s41586-023-06449-y)
 
 **Kitchel, Z. J.** & Pinsky, M. L. (2023). Regional species losses lag behind species gains and thermal conditions across the North American continental shelf. Global Ecology and Biogeography, 32(7), 1205-1217. [Link](https://onlinelibrary.wiley.com/doi/10.1111/geb.13681)
 
