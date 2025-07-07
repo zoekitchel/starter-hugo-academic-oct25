@@ -7,7 +7,7 @@ header:
   image: squid.JPG
 
 ---
-Kitchel Z. J., et al., Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. Community structure of southern California’s subtidal rocky reefs and implications for artificial reef design. In review at Marine Ecology Progress Series.
+**Kitchel Z. J.**, et al., Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. Community structure of southern California’s subtidal rocky reefs and implications for artificial reef design. *In review* at Marine Ecology Progress Series.
 
 Free C. M., **Kitchel Z. J.**, Seeley M., Shields A. Quota allocation policies in U.S. federal fisheries management and implications for climate resilience. Fish and Fisheries: 10.1111/faf.70000.
 
