@@ -7,7 +7,12 @@ header:
   image: squid.JPG
 
 ---
+
+Under review
+
 **Kitchel Z. J.**, et al., Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. Community structure of southern California’s subtidal rocky reefs and implications for artificial reef design. *In review* at Marine Ecology Progress Series.
+
+Peer reviewed
 
 Free C. M., **Kitchel Z. J.**, Seeley M., Shields A. Quota allocation policies in U.S. federal fisheries management and implications for climate resilience. Fish and Fisheries: 10.1111/faf.70000.
 
@@ -23,9 +28,10 @@ Fredston, A.L., Cheung, W.W., Frölicher, T.L., **Kitchel, Z.J.**, Maureaud, A.A
 
 **Kitchel, Z. J.**, Conrad, H. M.♦, Selden, R. L., & Pinsky, M. L. (2022). The role of continental shelf bathymetry in shaping marine range shifts in the face of climate change. Global Change Biology, 28(17), 5185-5199. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16276)
 
-**Kitchel, Z. J.** & Zemeckis, D. R. (2021). Climate Change Impacts on New Jersey's Marine Fisheries. Rutgers Cooperative Extension Bulletin E369. [Link](https://njaes.rutgers.edu/e369/)
 
 Pinsky, M. L., Selden, R. L., & **Kitchel, Z. J.** (2020). Climate-driven shifts in marine species ranges: Scaling from organisms to communities. Annual Review of Marine Science, 12, 153-179. [Link](https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010419-010916)
+
+Other
 
 **Kitchel, Z. J.**, Bandara, R. M. W. J., Bos, J. T., Clark, R. D., Forrest, D. L., & Pinsky, M. L. (2021). Ocean Recovery: A Sustainable Future for Global Fisheries? Ray Hilborn and Ulrike Hilborn, Oxford University Press, Oxford, UK. 2019. [Link](https://global.oup.com/academic/product/ocean-recovery-9780198839767)
 
