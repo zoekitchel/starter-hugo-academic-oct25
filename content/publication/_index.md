@@ -7,11 +7,13 @@ header:
   image: squid.JPG
 
 ---
-Maureaud, A. A., **Kitchel, Z. J.**, Fredston, A., Guralnick, R., Palacios Abrantes, J., Deng Palomares, M. L., Pinsky, M. L., Shackell N., Thorson, J. T., and Merigot B. FISHGLOB: a collaborative infrastructure for marine science and management. In review at Conservation Biology.
+Kitchel Z. J., et al., Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. Community structure of southern California’s subtidal rocky reefs and implications for artificial reef design. In review at Marine Ecology Progress Series.
 
-**Kitchel, Z. J.**, et al. Marine fish communities cycle between homogenized and differentiated states through time. In second revision at Ecology Letters.	
+Free C. M., **Kitchel Z. J.**, Seeley M., Shields A. Quota allocation policies in U.S. federal fisheries management and implications for climate resilience. Fish and Fisheries: 10.1111/faf.70000.
 
-Selden, R. L., **Kitchel, Z. J.**, Coleman, K. E., Calzada, L., Nogues, B., and St. Martin, K. Using historical catch flexibility and fishing ground mobility as measures of the adaptive capacity of fishing communities to future ocean change. In press at ICES Journal of Marine Science.
+Maureaud, A. A., **Kitchel, Z.**, Fredston, A., Guralnick, R., Palacios Abrantes, J., Deng Palomares, M. L., Pinsky, M. L., Shackell N., Thorson, J. T., and Merigot B. FISHGLOB: a collaborative infrastructure for marine science and management. 2025. Conservation Science and Practice, 10.1111/csp2.70035.
+
+Selden, R. L., **Kitchel, Z. J.**, Coleman, K. E., Calzada, L., Nogues, B., and St. Martin, K. Using historical catch flexibility and fishing ground mobility as measures of the adaptive capacity of fishing communities to future ocean change. (2024).  ICES Journal of Marine Science, 81(10), 1972–1987.
 
 Maureaud, A. A., Palacios-Abrantes, J., **Kitchel, Z.**, Mannocci, L., Pinsky, M., Fredston, A., Beukhof, E., Forrest, D., Frelat, R., Palomares, M. L. D., Pecuchet, L., Thorson, J., van Denderen, P. D., and Merigot, B. (2024) FishGlob_data: an integrated database of fish biodiversity sampled with scientific bottom-trawl surveys. Scientific Data, 11, 24.
 

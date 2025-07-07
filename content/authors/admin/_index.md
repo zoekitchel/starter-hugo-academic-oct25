@@ -72,5 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems. I am currently a Postdoctoral Researcher studying the biodiversity impacts of artificial structures in the ocean with the <a href="https://www.oxy.edu/academics/vantuna-research-group">Vantuna Research Group</a> at Occidental College in Los Angeles, California.
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change on marine ecosystems ways in which humans are responding to changing oceans. I am currently working with the Northwest Fisheries Science Center.
 

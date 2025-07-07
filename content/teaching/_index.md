@@ -24,7 +24,7 @@ At Rutgers University, I designed and taught courses and workshops for graduate 
 
 As a project associate with the [Teaching Assistant Project](https://grad.rutgers.edu/professional-development/teaching-skills/ta-project) at Rutgers University and a member of [Rutgers Academy for the Scholarship of Teaching and and Learning](https://grad.rutgers.edu/professional-development/rastl), I developed and facilitated orientations for new teaching assistants, taught semester graduate courses on higher education and course design, and ran interactive workshops to help faculty and graduate students expand their teaching toolkit and evaluate their teaching techniques.
 
-I am available for guest lectures and workshops on marine biology, climate change, and inclusivity in higher education. Don't hesitate to get in touch.
+I am available for guest lectures and workshops on marine biology, climate change, and inclusivity in higher education. Don't hesitate to get in touch. I have previously taught upper-level undergraduate courses in Global Change Ecology, Ichthyology, and Biostatistics.
 
 <div style="text-align: center">
 
